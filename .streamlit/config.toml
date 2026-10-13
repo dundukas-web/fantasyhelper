@@ -1,0 +1,20 @@
+[theme]
+# Pagrindinė akcento spalva (oranžinė / krepšinio stilius)
+primaryColor = "#ff6b00"
+
+# Bendras fono fonas (tamsus BasketNews stilius)
+backgroundColor = "#0e1117"
+
+# Antrinis fonas (kortelėms, šoninei juostai)
+secondaryBackgroundColor = "#161b22"
+
+# Teksto spalva
+textColor = "#e6edf3"
+
+# Šrifto stilius
+font = "sans serif"
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = true
